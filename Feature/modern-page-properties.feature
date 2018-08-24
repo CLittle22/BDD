@@ -1,0 +1,1 @@
+Feature: Modern page properties
