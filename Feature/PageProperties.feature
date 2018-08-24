@@ -2,7 +2,7 @@ Feature: The page properties modal allows users to edit attributes or existing p
 
   including page owner, title name and release schedule
 
-  @ORPHAN
+  @BDD-24 @OPEN
   Scenario: Site editor can open page properties modal
     Given I want to write a step with precondition
     And some other precondition
