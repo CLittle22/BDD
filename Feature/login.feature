@@ -2,7 +2,7 @@ Feature: Login
 
   can a user login to a Presence Site
 
-  @ORPHAN
+  @BDD-12 @COMPLETED
   Scenario: Login to Presence
     Given a user has a browser open
     And navigate to a Presence website
