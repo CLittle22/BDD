@@ -2,7 +2,7 @@ Feature: Modern page properties
 
   This will be for page properties scenarioes
 
-  @ORPHAN
+  @BDD-24 @OPEN
   Scenario: Site editor can open page properties modal
      Given I want to write a step with precondition
         And some other precondition
